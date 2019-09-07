@@ -1,0 +1,15 @@
+C:\Development\VS2013\Projects\GolfEf6\Golf.Repository\bin\Debug\Golf.Repository.dll
+C:\Development\VS2013\Projects\GolfEf6\Golf.Repository\bin\Debug\Golf.Repository.pdb
+C:\Development\VS2013\Projects\GolfEf6\Golf.Repository\bin\Debug\Golf.Entities.dll
+C:\Development\VS2013\Projects\GolfEf6\Golf.Repository\bin\Debug\Repository.Pattern.dll
+C:\Development\VS2013\Projects\GolfEf6\Golf.Repository\bin\Debug\Repository.Pattern.Ef6.dll
+C:\Development\VS2013\Projects\GolfEf6\Golf.Repository\bin\Debug\EntityFramework.dll
+C:\Development\VS2013\Projects\GolfEf6\Golf.Repository\bin\Debug\LinqKit.dll
+C:\Development\VS2013\Projects\GolfEf6\Golf.Repository\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Development\VS2013\Projects\GolfEf6\Golf.Repository\bin\Debug\Golf.Entities.pdb
+C:\Development\VS2013\Projects\GolfEf6\Golf.Repository\bin\Debug\Repository.Pattern.Ef6.pdb
+C:\Development\VS2013\Projects\GolfEf6\Golf.Repository\bin\Debug\Repository.Pattern.pdb
+C:\Development\VS2013\Projects\GolfEf6\Golf.Repository\bin\Debug\EntityFramework.xml
+C:\Development\VS2013\Projects\GolfEf6\Golf.Repository\obj\Debug\Golf.Repository.csprojResolveAssemblyReference.cache
+C:\Development\VS2013\Projects\GolfEf6\Golf.Repository\obj\Debug\Golf.Repository.dll
+C:\Development\VS2013\Projects\GolfEf6\Golf.Repository\obj\Debug\Golf.Repository.pdb
